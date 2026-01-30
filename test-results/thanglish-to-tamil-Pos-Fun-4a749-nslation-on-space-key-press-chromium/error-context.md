@@ -1,0 +1,148 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - table [ref=e3]:
+      - rowgroup [ref=e4]:
+        - row "hello Can't Read Tamil Properly ? Click Here To Install Tamil Font . Login / Register" [ref=e5]:
+          - cell "hello" [ref=e6]
+          - cell "Can't Read Tamil Properly ? Click Here To Install Tamil Font ." [ref=e7]:
+            - text: Can't Read Tamil Properly ?
+            - link "Click Here" [ref=e8] [cursor=pointer]:
+              - /url: Fonts.aspx
+            - text: To Install Tamil Font .
+          - cell "Login / Register" [ref=e9]:
+            - table [ref=e10]:
+              - rowgroup [ref=e11]:
+                - row "Login / Register" [ref=e12]:
+                  - cell [ref=e13]
+                  - cell "Login / Register" [ref=e14]:
+                    - link "Login / Register" [ref=e15] [cursor=pointer]:
+                      - /url: Register.aspx
+    - table [ref=e16]:
+      - rowgroup [ref=e17]:
+        - row "Online Tamil Tools" [ref=e18]:
+          - cell "Online Tamil Tools" [ref=e19]:
+            - heading "Online Tamil Tools" [level=1] [ref=e20]
+        - row "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e21]:
+          - cell "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e22]:
+            - generic:
+              - list:
+                - listitem [ref=e23]:
+                  - link "Conversion" [ref=e24] [cursor=pointer]:
+                    - /url: ./
+                - listitem [ref=e25]:
+                  - link "Dictionary" [ref=e26] [cursor=pointer]:
+                    - /url: Dictionary.aspx
+                - listitem [ref=e27]:
+                  - link "Tamil Search" [ref=e28] [cursor=pointer]:
+                    - /url: Search.aspx
+                - listitem [ref=e29]:
+                  - link "Export To Image" [ref=e30] [cursor=pointer]:
+                    - /url: Export.aspx
+                - listitem [ref=e31]:
+                  - link "Fonts" [ref=e32] [cursor=pointer]:
+                    - /url: Fonts.aspx
+                - listitem [ref=e33]:
+                  - link "Help" [ref=e34] [cursor=pointer]:
+                    - /url: Comments.aspx
+                - listitem [ref=e35]:
+                  - link "FAQ" [ref=e36] [cursor=pointer]:
+                    - /url: How-To-Write.aspx
+        - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name எனக்கு thanneer thara mudiyumaa? (Press Ctrl+g to toggle between English and Tamil) Advertisement Advertisement" [ref=e37]:
+          - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name எனக்கு thanneer thara mudiyumaa? (Press Ctrl+g to toggle between English and Tamil) Advertisement Advertisement" [ref=e38]:
+            - table [ref=e39]:
+              - rowgroup [ref=e40]:
+                - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name எனக்கு thanneer thara mudiyumaa? (Press Ctrl+g to toggle between English and Tamil) Advertisement Advertisement" [ref=e41]:
+                  - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name எனக்கு thanneer thara mudiyumaa? (Press Ctrl+g to toggle between English and Tamil) Advertisement Advertisement" [ref=e42]:
+                    - table [ref=e43]:
+                      - rowgroup [ref=e44]:
+                        - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name எனக்கு thanneer thara mudiyumaa? (Press Ctrl+g to toggle between English and Tamil) Advertisement" [ref=e45]:
+                          - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name எனக்கு thanneer thara mudiyumaa? (Press Ctrl+g to toggle between English and Tamil)" [ref=e46]:
+                            - table [ref=e47]:
+                              - rowgroup [ref=e48]:
+                                - row "English To Tamil Conversion" [ref=e49]:
+                                  - cell "English To Tamil Conversion" [ref=e50]:
+                                    - heading "English To Tamil Conversion" [level=1] [ref=e51]
+                                - row "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name எனக்கு thanneer thara mudiyumaa? (Press Ctrl+g to toggle between English and Tamil)" [ref=e52]:
+                                  - cell "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name எனக்கு thanneer thara mudiyumaa? (Press Ctrl+g to toggle between English and Tamil)" [ref=e53]:
+                                    - table [ref=e54]:
+                                      - rowgroup [ref=e55]:
+                                        - row "Type in English and press space(add space) to get converted to tamil" [ref=e56]:
+                                          - cell "Type in English and press space(add space) to get converted to tamil" [ref=e57]
+                                        - row "Save Export" [ref=e58]:
+                                          - cell "Save Export" [ref=e59]:
+                                            - button "Save" [ref=e60]
+                                            - button "Export" [ref=e61]
+                                        - row "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e62]:
+                                          - cell "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e63]
+                                        - row "எனக்கு thanneer thara mudiyumaa?" [ref=e64]:
+                                          - cell "எனக்கு thanneer thara mudiyumaa?" [ref=e65]:
+                                            - textbox [active] [ref=e66]: எனக்கு thanneer thara mudiyumaa?
+                                        - row "(Press Ctrl+g to toggle between English and Tamil)" [ref=e67]:
+                                          - cell "(Press Ctrl+g to toggle between English and Tamil)" [ref=e68]
+                          - cell "Advertisement" [ref=e69]:
+                            - insertion [ref=e70]:
+                              - iframe [ref=e72]:
+                                - generic [ref=f2e2]:
+                                  - iframe [ref=f2e5]:
+                                    - generic [ref=f13e5]:
+                                      - img [ref=f13e8]
+                                      - img [ref=f13e11]
+                                      - paragraph [ref=f13e12]: Book your stay with us when you next visit Galle
+                                      - paragraph [ref=f13e13]: RADISSON HOTELS GALLE
+                                      - img [ref=f13e16]
+                                      - img [ref=f13e19]
+                                      - paragraph [ref=f13e20]: BOOK NOW
+                                      - paragraph [ref=f13e21]: T&C's apply
+                                      - img [ref=f13e24]
+                                      - paragraph [ref=f13e25]:
+                                        - text: UP TO
+                                        - text: 15%
+                                        - text: "OFF"
+                                  - generic [ref=f2e6]:
+                                    - generic:
+                                      - img [ref=f2e10] [cursor=pointer]
+                                      - button [ref=f2e12] [cursor=pointer]:
+                                        - img [ref=f2e13]
+                        - row "Advertisement" [ref=e73]:
+                          - cell "Advertisement" [ref=e74]:
+                            - insertion [ref=e75]:
+                              - iframe [ref=e77]:
+                                - generic [ref=f3e2]:
+                                  - iframe [ref=f3e5]:
+                                    - generic [ref=f15e5]:
+                                      - img [ref=f15e8]
+                                      - img [ref=f15e11]
+                                      - paragraph [ref=f15e12]: Book your stay with us when you next visit Galle
+                                      - paragraph [ref=f15e13]:
+                                        - text: RADISSON HOTELS
+                                        - text: GALLE
+                                      - img [ref=f15e16]
+                                      - img [ref=f15e19]
+                                      - paragraph [ref=f15e20]: BOOK NOW
+                                      - paragraph [ref=f15e21]: T&C's apply
+                                      - img [ref=f15e24]
+                                      - paragraph [ref=f15e25]:
+                                        - text: UP TO
+                                        - text: 15%
+                                        - text: "OFF"
+                                  - generic [ref=f3e6]:
+                                    - generic:
+                                      - img [ref=f3e10] [cursor=pointer]
+                                      - button [ref=f3e12] [cursor=pointer]:
+                                        - img [ref=f3e13]
+        - row [ref=e78]:
+          - cell [ref=e79]
+  - insertion [ref=e80]:
+    - iframe [ref=e83]:
+      - generic [active] [ref=f8e1]:
+        - generic [ref=f8e3]:
+          - link:
+            - /url: https://googleads.g.doubleclick.net/aclk?nis=4&sa=l&ai=ChHj130F7ab-qG5nO4t4P9IXG2Qai0piDhQGb7aTRiBT416uP0REQASDXhKIMYJEBoAHTyImYPsgBAqgDAcgDyQSqBNYBT9D-yoxUry7UusIgyqs2py-l7U0phrZeexWFko5NQT5XtDWtcF1avsd2i9QvZMobX9EQAnTU2oP0HDfr-2f1pITfiXPtj5HBkPJ_PeauohCAcwbdJNQcxTnPhN2edB17XN0Lr781dY-7CRqWjGljr1T84tuOJ5xGi52LfETAZ-Ew-K4g-SUxb302hWSb6qoi5lMNynmeHQQsC6dq9Yy6WSuQCRFaH80dCSZW1lZM1HYfnrTlvlJXAWT_vnceeQPUII8XlYgSlx3OEmPLfyfW2WwcK47yG8AEiOyd2acFiAW6jZWvU6AGAoAH04Da9xioB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB8qpsQKoB-ulsQKoB-qxsQKoB5m1sQKoB763sQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOljp6Y6P0LCSA7EJrFVCPYvWQoCACgGYCwHICwGiDAOQAQHaDBEKCxDQoNin4cbw84ABEgIBA6oNAkxLyA0B6g0TCOSXj4_QsJIDFRmn2AUd9IIxa_ANAogOCdgTA9AVAZgWAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRIC-k4YAiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMI_5WPj9CwkgMVGafYBR30gjFrEAEYASAAEgKMsPD_BwE&num=1&cid=CAQSswEA56J1eWHBNbQJJcrGicqwbpBI1I1zTZAriCtWwGnX1voh8iB2H-ovUVk3QuiSTMTYWeAXsXz-yIfWDuXHoJCmn91Ck_h7TgIKKxtIE7gv12m5Hq9QKGFE-JRZeoP-fHmKW_1sBh9aCfsiDflI-3J9ZKS-FF3zzslqSVVDNQQ_SJsBCsUBYA64Yv3HKQo-LggR5z8vfeOIDlvxuTQy5hDIVAl5IQGQENgAfL1UyHRqwUiSLxgB&sig=AOD64_2VDimvfrMdhQkYdjP5tEdT5iTmaQ&client=ca-pub-0827640844035835&rf=2&nb=2&adurl=https://www.youtube.com/watch%3Fv%3DOba3nv8XGYg%26gad_source%3D5%26gad_campaignid%3D22379054778%26gclid%3DEAIaIQobChMI_5WPj9CwkgMVGafYBR30gjFrEAEYASAAEgKMsPD_BwE
+          - img [ref=f8e7] [cursor=pointer]
+          - button [ref=f8e9] [cursor=pointer]:
+            - img [ref=f8e10]
+        - iframe
+```
